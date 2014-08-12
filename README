@@ -6,5 +6,6 @@ chown -R root.root /system/etc
 chown root.shell /system/vendor
 chown root.shell /system/vendor/firmware
 chown -R root.shell /system/vendor/firmware/wlan
+// Theses files are symlink files that are included while installing rom.
 chown -h root.shell /system/vendor/firmware/wlan/prima/WCNSS_qcom_cfg.ini
 chown -h root.shell /system/vendor/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin
