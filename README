@@ -1,6 +1,6 @@
 ## jolla-kernel GEE/GEEB wlan prima Rom files ##
 
-- prima version : 3.2.3.13
+- prima version : 3.2.7.27
 - Permission Details
 chown -R root.root /system/etc
 chown root.shell /system/vendor
